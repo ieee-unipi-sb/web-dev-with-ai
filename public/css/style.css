@@ -1,0 +1,93 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: url("https://workshop-project-a5b21.web.app/img/3.png");
+}
+
+img {
+  -webkit-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  pointer-events: none;
+}
+
+.navbar {
+  padding: 5px 35px;
+}
+#navbarText span {
+  margin-left: auto;
+}
+
+#container {
+  min-height: calc(100vh - 105.5px);
+  padding: 30px;
+}
+
+.row {
+  margin-top: 0;
+}
+.col {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.movie_card {
+  width: 16rem;
+  padding: 0 !important;
+  border-radius: 5px;
+  box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
+}
+.movie_card img {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  height: 23rem;
+}
+.movie_info {
+  color: #5e5c5c;
+}
+.card-title {
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.card-footer {
+  border-color: #f1f1f1;
+  background-color: white;
+}
+
+a i {
+  font-size: 5px !important;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+#form_inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+label {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 15px 0;
+}
+footer a {
+  color: #7c7c7c !important;
+  font-size: 17px !important;
+}
+footer div {
+  display: flex;
+  justify-content: center;
+}
