@@ -131,7 +131,7 @@ To Create FireStore:
 
 In your `Project Overview` Dashboard:
 
-- Next to `Project Overview` click on the gear icon (⚙️) ► Project Settings
+- Next to `Project Overview` click on the gear icon (⚙️) ► `Project Settings`
 - Scroll Down to `SDK setup and configuration` and Click on `Config`
 - Do not close that page because you will need this config object in the next steps
 
