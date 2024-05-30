@@ -269,7 +269,7 @@ const API_KEY =
 Then, you will have to login to Firebase and create a new Repository from your `Terminal` with the commands below. Follow the Guide and in the end select to use `Firestore` and `Hosting (Without Github)`. If you have any errors, follow the link provided to you in your Terminal.
 
 ```shell
-firebase login  # Login through your Browser
+firebase login  # Type Y on the prompt and then open your browser to login
 firebase init
 ```
 
