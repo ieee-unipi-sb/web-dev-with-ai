@@ -163,7 +163,7 @@ const firebaseConfig = {
 };
 ```
 
-#### 2. Uncomment `public/index.html` lines 196 - 197, from this:
+#### 2. Uncomment `public/index.html` lines 200 - 201, from this:
 
 ```html
 <!-- <script src="js/firebase.js"></script> -->
