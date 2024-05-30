@@ -188,6 +188,7 @@ To this:
 - Click on `Login`.
 - Make an Account.
 - From the `My Account` Dashboard, click on `API Token`.
+- Click `Refresh` to generate your API Token.
 - Do not close this page because you will need this Token in the next steps.
 
 </details>
