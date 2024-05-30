@@ -198,7 +198,7 @@ To this:
     
   ### Let's add our AI assistant.
 
-#### 1. We start by uncommenting our chatbot functionalities file in `public/index.html` line 198 from this:
+#### 1. We start by uncommenting our chatbot functionalities file in `public/index.html` line 202 from this:
 
 ```html
 <!-- <script src="js/chatbot.js"></script> -->
