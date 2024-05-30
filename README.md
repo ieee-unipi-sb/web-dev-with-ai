@@ -37,6 +37,8 @@ The first command is used to download the code from a repository. The second one
   
   ### Let's experiment with the code.
 
+We can watch our website locally if we do the following: `Right Click on index.html ► Copy Path ► Open a Browser ► Paste the Copied Path on the URL`. 
+
 - We can edit `public/index.html` line 9, to change the title of your website.
 
 ```html
