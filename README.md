@@ -2,6 +2,8 @@
 
 This guide is a step-by-step document in order to assist the attendies of the workshop "My first website with a glimpse of AI" presented by [Adreas Karabetian](https://github.com/adreaskar) and [Panagiotis Karamolegkos](https://www.github.com/karamolegkos).
 
+Attendies should use the following link in order to participate with the presenters: [Join Here](https://www.menti.com/albbfr8tpfny)
+
 # Table of Contents
 
 ## Prerequisites
