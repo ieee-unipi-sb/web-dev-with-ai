@@ -114,7 +114,7 @@ const generateResponse = (chatElement) => {
     .catch((error) => {
       messageElement.classList.add("error");
       messageElement.textContent =
-        "Oops! Something went wrong. Please try again.";
+        "Service is currently unavailable. Please try again later.";
       console.error(error);
     })
     // Scroll to the bottom of the chatbox
