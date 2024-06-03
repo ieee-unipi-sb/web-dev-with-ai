@@ -78,7 +78,7 @@ background: url("https://raw.githubusercontent.com/ieee-unipi-sb/web-dev-with-ai
 ```
 
 - We can change our footer background color by editing the following attribute in
-  `public/style.css` line 83.
+  `public/css/style.css` line 83.
 
 ```css
 background-color: #f1f1f1;
