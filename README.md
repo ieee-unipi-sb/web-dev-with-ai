@@ -281,7 +281,7 @@ In the `firebase init` procedure choose the following:
 
   ◉ Hosting: Configure files for Firebase Hosting and (optionally) set
 
-#### Project Setup
+##### Project Setup
 
 - Please select an option ► <b>Use an existing project</b>
 
