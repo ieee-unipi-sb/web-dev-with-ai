@@ -273,9 +273,35 @@ firebase login  # Type Y on the prompt and then open your browser to login
 firebase init
 ```
 
-While running in the `firebase init` procedure, choose: `Y ► Firestore & Hosting (Without Github Action deploys) ► Use an existing project ► Choose the name of your project ► Enter ► Enter ► Enter ► y ► N ► N`
+In the `firebase init` procedure choose the following: 
 
-_Is the above a GTA San Andreas cheat? We will never know..._
+- Which Firebase features do you want to set up for this directory? ►
+
+  ◉ Firestore: Configure security rules and indexes files for Firestore
+
+  ◉ Hosting: Configure files for Firebase Hosting and (optionally) set
+
+#### Project Setup
+
+- Please select an option ► <b>Use an existing project</b>
+
+- Select a default Firebase project for this directory ► <b> < Your project name > </b>
+
+##### Firestore Setup
+
+- What file should be used for Firestore Rules? ► <b> firestore.rules (Just click Enter) </b>
+
+- What file should be used for Firestore indexes? ► <b> firestore.indexes.json (Just click Enter) </b>
+
+##### Hosting Setup
+
+- What do you want to use as your public directory? ► <b> public (Just click Enter) </b>
+
+- Configure as a single-page app (rewrite all urls to /index.html)? ► <b> y </b>
+
+- Set up automatic builds and deploys with GitHub? ► <b> N </b>
+
+- File public/index.html already exists. Overwrite? ► <b> N </b>
 
 </details>
 
